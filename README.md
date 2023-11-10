@@ -34,10 +34,10 @@ Thank you for visiting my profile! 😊
 
 <div align="center">
   <p>
-    <a href="https://github.com/ItsFexnes" target="_blank">
+    <a href="https://github.com/pandhu-rendra" target="_blank">
       <img src="https://img.shields.io/github/followers/ItsFexnes?label=Follow&style=social" alt="GitHub Followers" />
     </a>
-    <a href="https://github.com/ItsFexnes" target="_blank">
+    <a href="https://github.com/pandhu-rendra" target="_blank">
       <img src="https://img.shields.io/github/stars/ItsFexnes?style=social" alt="GitHub Stars" />
     </a>
     <a href="https://discord.com/users/941844949824069692" target="_blank">
