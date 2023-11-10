@@ -2,7 +2,7 @@
 
 ![Profile Logo](https://media.discordapp.net/attachments/1032820975877754960/1036330046056583189/uptimer.png)
 
-# ItsFexnes
+# Rendra
 
 Hello! Welcome to my GitHub profile! My name is Rendra, also known as ItsFexnes. I am a 13-year-old from Tamanan,
 Banguntapan, Bantul, Jogjakarta. I have a passion for coding and enjoy watching YouTube videos.
@@ -37,7 +37,7 @@ Thank you for visiting my profile! 😊
     <a href="https://github.com/pandhu-rendra" target="_blank">
       <img src="https://img.shields.io/github/followers/ItsFexnes?label=Follow&style=social" alt="GitHub Followers" />
     </a>
-    <a href="https://github.com/Rendra" target="_blank">
+    <a href="https://github.com/pandhu-rendra" target="_blank">
       <img src="https://img.shields.io/github/stars/ItsFexnes?style=social" alt="GitHub Stars" />
     </a>
     <a href="https://discord.com/users/941844949824069692" target="_blank">
